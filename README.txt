@@ -16,3 +16,7 @@ Dentro del directorio Notebooks encontrará el EDA y la evaluación del
 modelo, que se nutren de los archivos generados por el paso anterior.
 La evaluación también usa un archivo llamado Sample que contiene una muestra
 manualmente etiquetada de comentarios para su comparación con las etiquetas del modelo.
+
+En el directorio Reports se encuentra el dashboard con los resultados del análisis.
+El origen de datos apunta al directorio Data de este repositorio en la nube, así que
+no es necesario modificar el origen para actualizar los datos del tablero localmente.
