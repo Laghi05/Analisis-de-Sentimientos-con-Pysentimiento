@@ -1,1 +1,0 @@
-# An-lisis-de-Sentimientos-con-Pysentimiento
