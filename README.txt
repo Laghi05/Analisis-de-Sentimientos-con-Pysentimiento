@@ -11,7 +11,9 @@ Al finalizar, se genera un archivo csv con los datos limpios y otro con los dato
 etiquetados por el modelo. Ambos se guardan en el directorio Data automáticamente.
 
 Dentro del directorio Notebooks encontrará el EDA y la evaluación del modelo, que se nutren de
-los archivos generados por el paso anterior.
+los archivos generados por el paso anterior. En este mismo directorio encontrará un notebook con el
+proceso de limpieza que puede ejecutar paso a paso para observar los diagnósticos de limpieza de la data
+en cuanto a sus valores nulos, duplicados, variables totales, entre otros.
 La evaluación también usa un archivo llamado Sample que contiene una muestra manualmente etiquetada de
 comentarios para su comparación con las etiquetas del modelo.
 
